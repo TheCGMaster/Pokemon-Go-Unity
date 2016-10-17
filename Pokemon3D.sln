@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4AF6318B-2312-1190-3F0C-070BBCD0612E}") = "Pokemon3D", "Assembly-CSharp.csproj", "{677E25F6-DEC8-272F-ECE7-F837E33064F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677E25F6-DEC8-272F-ECE7-F837E33064F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677E25F6-DEC8-272F-ECE7-F837E33064F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677E25F6-DEC8-272F-ECE7-F837E33064F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677E25F6-DEC8-272F-ECE7-F837E33064F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
